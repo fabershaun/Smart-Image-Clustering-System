@@ -1,0 +1,6 @@
+{
+  "features_file": "data/flowers/image-features.pkl",
+  "labels_file": "data/flowers/flowers-solution.csv",
+  "min_cluster_size": 10,
+  "max_iterations": 10
+}
